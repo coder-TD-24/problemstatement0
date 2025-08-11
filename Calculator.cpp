@@ -83,7 +83,7 @@ int main() {
     "(+, -, *, /, r (sqrt), L (ln), l (log), e (exp), p (a^b)): "; 
     cin >> x;
     cout << endl;
-    int a, b;
+    double a, b;
         if (x == '+' || x == '-' || x == '*' || x=='/' || x=='r' || x=='L' || x=='l' || x=='e' || x=='p') {
         
         if (x == '+' || x=='-' || x=='*' || x=='/' || x=='p') {
